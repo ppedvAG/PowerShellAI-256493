@@ -14,3 +14,7 @@ KursRepository zu Kurs PowerShell mit AI – Automatisierung für Clevere der pp
     - Skriptsicherheit
     - Parametrisierung
     - cmdletBinding
+    - Pipelines
+    - Begin / Process / End Blöcke
+    - Functions
+    - Module
