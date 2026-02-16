@@ -7,3 +7,10 @@ KursRepository zu Kurs PowerShell mit AI – Automatisierung für Clevere der pp
 - Filterung von Daten mit PowerShell
 - Aufzählen
 - Schleifen
+- Software Testing
+- Zertifikathandling
+- Fehlerbehandlung
+- Scipting
+    - Skriptsicherheit
+    - Parametrisierung
+    - cmdletBinding
