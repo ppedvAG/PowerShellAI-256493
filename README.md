@@ -18,3 +18,10 @@ KursRepository zu Kurs PowerShell mit AI – Automatisierung für Clevere der pp
     - Begin / Process / End Blöcke
     - Functions
     - Module
+- KI Prompts
+    - Systemprompt
+    - Userprompt
+    - als Werkzeug für die Automatisierung von Aufgaben
+    - als Werkzeug für die Erstellung von Skripten
+    - Modelle
+      - LLMs vs GenerativeAI
