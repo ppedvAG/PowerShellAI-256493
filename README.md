@@ -4,4 +4,6 @@ KursRepository zu Kurs PowerShell mit AI – Automatisierung für Clevere der pp
 
 ### Kursinhalte
 - Einführung in PowerShell und AI
-
+- Filterung von Daten mit PowerShell
+- Aufzählen
+- Schleifen
